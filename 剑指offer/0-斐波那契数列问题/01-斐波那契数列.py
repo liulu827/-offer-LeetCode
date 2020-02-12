@@ -17,5 +17,6 @@ class Solution:
         return None
 
 result = Solution()
-for n in range(34):
+for n in range(39):
     print(result.Fibonacci(n))
+    
